@@ -1,8 +1,64 @@
 {
-    "battery_percent": 100.0,
-    "is_plugged": true,
-    "ram_used_gb": 5.19,
-    "ram_total_gb": 7.46,
-    "ram_percent": 69.5,
-    "swap_percent": 97.3
+    "cpu": {
+        "percent": 4.1,
+        "cores_physical": 10,
+        "cores_total": 12,
+        "frequency_mhz": 888.16
+    },
+    "ram": {
+        "used_gb": 4.97,
+        "total_gb": 7.46,
+        "percent": 66.6
+    },
+    "swap": {
+        "percent": 97.3
+    },
+    "disk": {
+        "total_gb": 467.89,
+        "used_gb": 80.24,
+        "free_gb": 363.81,
+        "percent": 18.1
+    },
+    "battery": {
+        "percent": 100.0,
+        "is_plugged": true,
+        "seconds_left": -2
+    },
+    "network": {
+        "bytes_sent_mb": 367.47,
+        "bytes_recv_mb": 1435.48
+    },
+    "running_apps_count": 312,
+    "running_apps": [
+        "cpuhp/0",
+        "cpuhp/2",
+        "cpuhp/4",
+        "cpuhp/5",
+        "idle_inject/0",
+        "idle_inject/2",
+        "idle_inject/4",
+        "idle_inject/5",
+        "ksoftirqd/0",
+        "ksoftirqd/2",
+        "ksoftirqd/4",
+        "kthreadd",
+        "kworker/0:0H-events_highpri",
+        "kworker/2:0H-kblockd",
+        "kworker/4:0H-events_highpri",
+        "kworker/R-kvfree_rcu_reclaim",
+        "kworker/R-mm_percpu_wq",
+        "kworker/R-netns",
+        "kworker/R-rcu_gp",
+        "kworker/R-slub_flushwq",
+        "kworker/R-sync_wq",
+        "migration/0",
+        "migration/2",
+        "migration/4",
+        "migration/5",
+        "pool_workqueue_release",
+        "rcu_exp_gp_kthread_worker",
+        "rcu_exp_par_gp_kthread_worker/0",
+        "rcu_preempt",
+        "systemd"
+    ]
 }
