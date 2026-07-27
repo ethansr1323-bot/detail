@@ -1,14 +1,14 @@
 {
     "cpu": {
-        "percent": 1.0,
+        "percent": 0.8,
         "cores_physical": 10,
         "cores_total": 12,
-        "frequency_mhz": 615.79
+        "frequency_mhz": 437.31
     },
     "ram": {
-        "used_gb": 4.11,
+        "used_gb": 4.08,
         "total_gb": 7.46,
-        "percent": 55.0
+        "percent": 54.7
     },
     "swap": {
         "percent": 96.7
@@ -20,13 +20,13 @@
         "percent": 18.1
     },
     "battery": {
-        "percent": 98.95470383275261,
+        "percent": 98.75559980089596,
         "is_plugged": false,
-        "seconds_left": 17736
+        "seconds_left": 17856
     },
     "network": {
-        "bytes_sent_mb": 370.09,
-        "bytes_recv_mb": 1441.23
+        "bytes_sent_mb": 370.14,
+        "bytes_recv_mb": 1441.27
     },
     "running_apps_count": 325,
     "running_apps": [
@@ -43,7 +43,7 @@
         "ksoftirqd/4",
         "kthreadd",
         "kworker/0:0H-events_highpri",
-        "kworker/2:0H-kblockd",
+        "kworker/2:0H-i915_cleanup",
         "kworker/4:0H-events_highpri",
         "kworker/R-kvfree_rcu_reclaim",
         "kworker/R-mm_percpu_wq",
