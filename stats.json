@@ -1,14 +1,23 @@
 {
+    "system_info": {
+        "os": "Linux",
+        "os_release": "6.17.0-35-generic",
+        "os_version": "#35~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue May 26 19:30:42 UTC 2",
+        "architecture": "x86_64",
+        "processor": "x86_64",
+        "laptop_model": "Aspire A315-59",
+        "screen_resolution": "1920x1080"
+    },
     "cpu": {
-        "percent": 14.6,
+        "percent": 3.7,
         "cores_physical": 10,
         "cores_total": 12,
-        "frequency_mhz": 961.42
+        "frequency_mhz": 474.53
     },
     "ram": {
-        "used_gb": 4.23,
+        "used_gb": 4.13,
         "total_gb": 7.46,
-        "percent": 56.6
+        "percent": 55.3
     },
     "swap": {
         "percent": 96.8
@@ -20,45 +29,20 @@
         "percent": 18.1
     },
     "battery": {
-        "percent": 96.41612742658039,
+        "percent": 96.24191139870582,
         "is_plugged": false,
-        "seconds_left": 14542
+        "seconds_left": 12474
     },
     "network": {
-        "bytes_sent_mb": 371.83,
-        "bytes_recv_mb": 1442.65
+        "bytes_sent_mb": 371.91,
+        "bytes_recv_mb": 1442.7
     },
-    "running_apps_count": 360,
-    "running_apps": [
-        "cpuhp/0",
-        "cpuhp/2",
-        "cpuhp/4",
-        "cpuhp/5",
-        "idle_inject/0",
-        "idle_inject/2",
-        "idle_inject/4",
-        "idle_inject/5",
-        "ksoftirqd/0",
-        "ksoftirqd/2",
-        "ksoftirqd/4",
-        "kthreadd",
-        "kworker/0:0H-events_highpri",
-        "kworker/2:0H-i915_cleanup",
-        "kworker/4:0H-events_highpri",
-        "kworker/R-kvfree_rcu_reclaim",
-        "kworker/R-mm_percpu_wq",
-        "kworker/R-netns",
-        "kworker/R-rcu_gp",
-        "kworker/R-slub_flushwq",
-        "kworker/R-sync_wq",
-        "migration/0",
-        "migration/2",
-        "migration/4",
-        "migration/5",
-        "pool_workqueue_release",
-        "rcu_exp_gp_kthread_worker",
-        "rcu_exp_par_gp_kthread_worker/0",
-        "rcu_preempt",
-        "systemd"
+    "running_user_apps": [
+        "Bash",
+        "Chrome_crashpad_handler",
+        "Com",
+        "Discord",
+        "Firefox-bin",
+        "Gnome-terminal-server"
     ]
 }
