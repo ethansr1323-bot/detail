@@ -9,33 +9,33 @@
         "screen_resolution": "1920x1080"
     },
     "cpu": {
-        "percent": 11.5,
+        "percent": 32.3,
         "cores_physical": 10,
         "cores_total": 12,
-        "frequency_mhz": 601.63
+        "frequency_mhz": 1019.71
     },
     "ram": {
-        "used_gb": 4.34,
+        "used_gb": 4.33,
         "total_gb": 7.46,
-        "percent": 73.2
+        "percent": 73.7
     },
     "swap": {
         "percent": 19.9
     },
     "disk": {
         "total_gb": 467.89,
-        "used_gb": 80.09,
+        "used_gb": 80.1,
         "free_gb": 363.96,
         "percent": 18.0
     },
     "battery": {
-        "percent": 77.20258835241414,
+        "percent": 76.90393230462917,
         "is_plugged": false,
-        "seconds_left": 8466
+        "seconds_left": 9110
     },
     "network": {
-        "bytes_sent_mb": 29.94,
-        "bytes_recv_mb": 84.73
+        "bytes_sent_mb": 30.29,
+        "bytes_recv_mb": 85.65
     },
     "running_user_apps": [
         "Bash",
