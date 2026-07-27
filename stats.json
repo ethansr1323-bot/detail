@@ -3,15 +3,15 @@
         "percent": 0.5,
         "cores_physical": 10,
         "cores_total": 12,
-        "frequency_mhz": 400.47
+        "frequency_mhz": 746.94
     },
     "ram": {
-        "used_gb": 4.15,
+        "used_gb": 4.13,
         "total_gb": 7.46,
-        "percent": 55.5
+        "percent": 55.4
     },
     "swap": {
-        "percent": 97.0
+        "percent": 96.9
     },
     "disk": {
         "total_gb": 467.89,
@@ -25,8 +25,8 @@
         "seconds_left": -2
     },
     "network": {
-        "bytes_sent_mb": 369.45,
-        "bytes_recv_mb": 1439.28
+        "bytes_sent_mb": 369.48,
+        "bytes_recv_mb": 1439.31
     },
     "running_apps_count": 310,
     "running_apps": [
