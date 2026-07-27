@@ -9,18 +9,18 @@
         "screen_resolution": "1920x1080"
     },
     "cpu": {
-        "percent": 31.2,
+        "percent": 15.7,
         "cores_physical": 10,
         "cores_total": 12,
-        "frequency_mhz": 1188.36
+        "frequency_mhz": 1335.33
     },
     "ram": {
-        "used_gb": 4.33,
+        "used_gb": 3.93,
         "total_gb": 7.46,
-        "percent": 74.6
+        "percent": 68.7
     },
     "swap": {
-        "percent": 64.8
+        "percent": 79.6
     },
     "disk": {
         "total_gb": 467.89,
@@ -29,17 +29,16 @@
         "percent": 18.0
     },
     "battery": {
-        "percent": 60.751617720258835,
+        "percent": 60.50273768043803,
         "is_plugged": false,
-        "seconds_left": 7434
+        "seconds_left": 8217
     },
     "network": {
-        "bytes_sent_mb": 44.67,
-        "bytes_recv_mb": 151.53
+        "bytes_sent_mb": 45.03,
+        "bytes_recv_mb": 162.5
     },
     "running_user_apps": [
         "Bash",
-        "Chrome",
         "Chrome_crashpad_handler",
         "Com",
         "Discord",
