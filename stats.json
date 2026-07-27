@@ -9,40 +9,39 @@
         "screen_resolution": "1920x1080"
     },
     "cpu": {
-        "percent": 8.7,
+        "percent": 5.6,
         "cores_physical": 10,
         "cores_total": 12,
-        "frequency_mhz": 926.34
+        "frequency_mhz": 570.65
     },
     "ram": {
-        "used_gb": 4.67,
+        "used_gb": 3.22,
         "total_gb": 7.46,
-        "percent": 76.6
+        "percent": 53.1
     },
     "swap": {
         "percent": 1.4
     },
     "disk": {
         "total_gb": 467.89,
-        "used_gb": 80.07,
-        "free_gb": 363.98,
+        "used_gb": 80.06,
+        "free_gb": 363.99,
         "percent": 18.0
     },
     "battery": {
-        "percent": 81.55798904927825,
+        "percent": 81.28422100547536,
         "is_plugged": false,
-        "seconds_left": 11453
+        "seconds_left": 10846
     },
     "network": {
-        "bytes_sent_mb": 20.51,
-        "bytes_recv_mb": 63.45
+        "bytes_sent_mb": 20.86,
+        "bytes_recv_mb": 63.62
     },
     "running_user_apps": [
         "Bash",
         "Chrome_crashpad_handler",
         "Com",
         "Discord",
-        "Firefox-bin",
         "Gnome-terminal-server"
     ]
 }
