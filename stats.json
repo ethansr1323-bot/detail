@@ -1,22 +1,22 @@
 {
     "cpu": {
-        "percent": 12.0,
+        "percent": 10.6,
         "cores_physical": 10,
         "cores_total": 12,
-        "frequency_mhz": 1110.6
+        "frequency_mhz": 727.35
     },
     "ram": {
-        "used_gb": 4.92,
+        "used_gb": 4.52,
         "total_gb": 7.46,
-        "percent": 65.9
+        "percent": 60.5
     },
     "swap": {
         "percent": 97.1
     },
     "disk": {
         "total_gb": 467.89,
-        "used_gb": 80.32,
-        "free_gb": 363.73,
+        "used_gb": 80.28,
+        "free_gb": 363.77,
         "percent": 18.1
     },
     "battery": {
@@ -25,10 +25,10 @@
         "seconds_left": -2
     },
     "network": {
-        "bytes_sent_mb": 368.05,
-        "bytes_recv_mb": 1437.2
+        "bytes_sent_mb": 368.12,
+        "bytes_recv_mb": 1437.33
     },
-    "running_apps_count": 321,
+    "running_apps_count": 317,
     "running_apps": [
         "cpuhp/0",
         "cpuhp/2",
