@@ -1,12 +1,12 @@
 {
     "cpu": {
-        "percent": 0.5,
+        "percent": 0.8,
         "cores_physical": 10,
         "cores_total": 12,
-        "frequency_mhz": 746.94
+        "frequency_mhz": 484.21
     },
     "ram": {
-        "used_gb": 4.13,
+        "used_gb": 4.14,
         "total_gb": 7.46,
         "percent": 55.4
     },
@@ -25,8 +25,8 @@
         "seconds_left": -2
     },
     "network": {
-        "bytes_sent_mb": 369.48,
-        "bytes_recv_mb": 1439.31
+        "bytes_sent_mb": 369.51,
+        "bytes_recv_mb": 1439.35
     },
     "running_apps_count": 310,
     "running_apps": [
