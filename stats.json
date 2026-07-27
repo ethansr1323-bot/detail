@@ -1,8 +1,8 @@
 {
     "battery_percent": 100.0,
     "is_plugged": true,
-    "ram_used_gb": 5.17,
+    "ram_used_gb": 5.19,
     "ram_total_gb": 7.46,
-    "ram_percent": 69.3,
+    "ram_percent": 69.5,
     "swap_percent": 97.3
 }
